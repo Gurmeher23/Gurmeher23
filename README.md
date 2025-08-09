@@ -42,9 +42,4 @@ Here are some of the technologies I work with:
 LinkedIn: linkedin.com/in/gurmeher-singh-puri
 
 Email: gurmeher23@gmail.com
-
-📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gurmeher23&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Gurmeher's GitHub Stats"/>
-</p>
+University email: gurmeher.puri@email.uni-freiburg.de
