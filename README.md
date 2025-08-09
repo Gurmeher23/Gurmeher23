@@ -45,9 +45,3 @@ Email: gurmeher23@gmail.com
 
 University Email: gurmeher.puri@email.uni-freiburg.de
 
-📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gurmeher23&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Gurmeher's GitHub Stats"/>
-</p>
-
