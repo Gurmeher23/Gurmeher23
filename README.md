@@ -1,7 +1,7 @@
 Hi there, I'm Gurmeher Singh Puri 👋
 <p align="center">
 <a href="https://gurmeher23.github.io/">
-<img src="https://storage.googleapis.com/gemini-prod-us-west1-43350020492/uploaded/Screenshot%202025-08-09%20at%204.12.57%E2%80%AFAM.png-2ed1e199-477d-4077-b285-73e908dbe603" width="200px" alt="Gurmeher Singh Puri" style="border-radius: 50%;" />
+<img src="profile-picture.png" width="200px" alt="Gurmeher Singh Puri" style="border-radius: 50%;" />
 </a>
 </p>
 
@@ -39,7 +39,15 @@ Here are some of the technologies I work with:
 
 📫 Connect with Me
 
-LinkedIn: linkedin.com/in/gurmeher-singh-puri
+LinkedIn: linkedin.com/in/gurmeher-singh-puri-674949146/
 
 Email: gurmeher23@gmail.com
-University email: gurmeher.puri@email.uni-freiburg.de
+
+University Email: gurmeher.puri@email.uni-freiburg.de
+
+📊 My GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gurmeher23&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Gurmeher's GitHub Stats"/>
+</p>
+
